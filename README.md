@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Student<br>I am pursuing Second Year BE in Computer Science and Engineering at JSSTU Mysore
+I am a Student<br>I am pursuing Second Year BE in Computer Science and Business System at JSSTU Mysore
 
 
 ## 🌐 Socials:
